@@ -11,15 +11,17 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://xcss-selectors.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'xcss-selectors', // Usually your GitHub org/user name.
+  projectName: 'xcss-selectors.github.io', // Usually your repo name.
+  trailingSlash: false,
+  deploymentBranch:'main',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
