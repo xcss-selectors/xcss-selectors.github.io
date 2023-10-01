@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkxcss_web=self.webpackChunkxcss_web||[]).push([[854],{6411:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/xcss-selectors.guthub.io/blog/tags/docusaurus","allTagsPath":"/xcss-selectors.guthub.io/blog/tags","count":4}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkxcss_web=self.webpackChunkxcss_web||[]).push([[304],{6206:s=>{s.exports=JSON.parse('{"permalink":"/xcss-selectors.guthub.io/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
