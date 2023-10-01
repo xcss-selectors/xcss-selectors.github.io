@@ -21,7 +21,7 @@ const config = {
   organizationName: 'xcss-selectors', // Usually your GitHub org/user name.
   projectName: 'xcss-selectors.github.io', // Usually your repo name.
   trailingSlash: false,
-  deploymentBranch:'main',
+  deploymentBranch:'deployment',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
