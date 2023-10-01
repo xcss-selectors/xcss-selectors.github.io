@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxcss_web=self.webpackChunkxcss_web||[]).push([[537],{5800:s=>{s.exports=JSON.parse('{"permalink":"/xcss-selectors.guthub.io/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxcss_web=self.webpackChunkxcss_web||[]).push([[378],{1626:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/xcss-selectors.guthub.io/blog/tags/hola","allTagsPath":"/xcss-selectors.guthub.io/blog/tags","count":1}')}}]);
