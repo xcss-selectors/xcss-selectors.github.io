@@ -11,7 +11,7 @@ Start using XCSS in your Playwright project in just a few simple steps.
 Install XcssSelectors package to your project.
 
 ```bash
-dotnet add package XcssSelectors
+dotnet add package XcssSelectors --version 1.0.0-beta
 ```
 
 ## Add extension method for IPage
@@ -21,8 +21,8 @@ internal static class IPageExtensions
 {
     public static ILocator LocatorXcss(this IPage page, string xcssSelector)
     {
-        var xcss = XcssSelectors.XCSS.FromXcss(xcssSelector);
-        return page.Locator(xcss.Xpath);
+        var xcss = Xcss.Parse(xcssSelector);
+        return page.Locator(xcss.XPath);
     }
 }
 ```
